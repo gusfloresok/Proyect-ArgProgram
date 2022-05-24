@@ -12,6 +12,15 @@ div{
     margin-top: 30%;
 }
 
+
+/* @media (max-width: 575px){ NOSE NO FUNCIONA
+    .fotodeperfil{
+        height: auto;
+        width: 40%;
+    }
+} */
+
+
 /* que la foto quede en el medio y sea redonda */
 /* @media (min-width: 576px){
     #fotodeperfil{
