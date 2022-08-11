@@ -32,7 +32,7 @@ background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100
     left: 0;
     right: 0;
     margin: auto;
-    background: rgb(8, 97, 82);
+    background: rgb(0, 0, 0);
 }
 
 .console-underscore {
