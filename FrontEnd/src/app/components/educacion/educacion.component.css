@@ -1,9 +1,13 @@
 .row{
     padding: 20px;
-/*     padding: 20px;
-    padding-top: 10px; */
-    background: rgb(34,193,195);
-    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+
+
+    background-color: #b7b7a494;
+/*     background: rgb(34,193,195);
+    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
 }
 
 
@@ -11,4 +15,25 @@
 /* poner trabajo y los años en la misma linea */
 h1, h3{
     display: inline;
+}
+
+
+
+
+
+
+
+
+@media (max-width: 575px){
+    .comcolumn {
+        display: flex;
+        flex-direction: column;
+        border: none ; 
+   }
+
+   td{
+    border: none ;
+   }
+
+ 
 }
