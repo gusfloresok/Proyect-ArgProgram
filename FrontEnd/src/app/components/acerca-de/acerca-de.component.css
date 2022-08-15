@@ -1,10 +1,14 @@
 .row{
     padding: 20px;
     background-color: #b7b7a494;
+    padding-left: 5%;
+    padding-right: 5%;
 /*     background: rgb(34,193,195);
     background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
     /* animation: fanimado 10s infinite; */
 }
+
+
 
 /* @keyframes fanimado{
     0%{
