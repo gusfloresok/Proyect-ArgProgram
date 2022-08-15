@@ -1,0 +1,15 @@
+.boton{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+
+}
+
+.row{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.container{
+    margin-top: 15%;
+}
